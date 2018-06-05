@@ -1,4 +1,4 @@
 # hello-world
-a short description
 Hello lifeforms,
-I like world domination!
+I like world domination and pizza!
+That will be all.
